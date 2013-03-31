@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcProtect.WXP", "ProcProtect\ProcProtect.WXP.vcxproj", "{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcProtectCons", "ProcProtectCons\ProcProtectCons.vcxproj", "{C863F5D8-EAE5-4681-87F6-98299625620E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProcProtectMFC", "ProcProtectMFC\ProcProtectMFC.vcxproj", "{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		WXP checked|Win32 = WXP checked|Win32
+		WXP free|Win32 = WXP free|Win32
+		WXP2K checked|Win32 = WXP2K checked|Win32
+		WXP2K free|Win32 = WXP2K free|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.Debug|Win32.ActiveCfg = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.Debug|Win32.Build.0 = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.Release|Win32.ActiveCfg = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.Release|Win32.Build.0 = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP checked|Win32.ActiveCfg = WXP checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP checked|Win32.Build.0 = WXP checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP checked|Win32.Deploy.0 = WXP checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP free|Win32.ActiveCfg = WXP free|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP free|Win32.Build.0 = WXP free|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP free|Win32.Deploy.0 = WXP free|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K checked|Win32.ActiveCfg = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K checked|Win32.Build.0 = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K checked|Win32.Deploy.0 = WXP2K checked|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K free|Win32.ActiveCfg = WXP2K free|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K free|Win32.Build.0 = WXP2K free|Win32
+		{BA6BC408-12DC-42FD-ADC8-13DD7760BC5D}.WXP2K free|Win32.Deploy.0 = WXP2K free|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.Debug|Win32.Build.0 = Debug|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.Release|Win32.ActiveCfg = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.Release|Win32.Build.0 = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP checked|Win32.ActiveCfg = Debug|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP checked|Win32.Build.0 = Debug|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP free|Win32.ActiveCfg = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP free|Win32.Build.0 = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP2K checked|Win32.ActiveCfg = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP2K checked|Win32.Build.0 = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP2K free|Win32.ActiveCfg = Release|Win32
+		{C863F5D8-EAE5-4681-87F6-98299625620E}.WXP2K free|Win32.Build.0 = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.Debug|Win32.Build.0 = Debug|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.Release|Win32.ActiveCfg = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.Release|Win32.Build.0 = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP checked|Win32.ActiveCfg = Debug|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP checked|Win32.Build.0 = Debug|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP free|Win32.ActiveCfg = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP free|Win32.Build.0 = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP2K checked|Win32.ActiveCfg = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP2K checked|Win32.Build.0 = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP2K free|Win32.ActiveCfg = Release|Win32
+		{A8ACF7A8-72A4-4A01-8A2F-2D7DAD26598B}.WXP2K free|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

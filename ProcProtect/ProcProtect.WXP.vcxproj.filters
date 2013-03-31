@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ec4edbe2-e353-41c6-b370-5e049966e3d3}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;asm;mc</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4287b743-a310-4ac7-8e2f-46e1aa42d8ae}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{69ee1bf3-9b80-4cd6-ae35-70972e231d42}</UniqueIdentifier>
+      <Extensions>rc;mc;ico;cur;bmp;dlg;rc2</Extensions>
+    </Filter>
+    <Filter Include="Special Files">
+      <UniqueIdentifier>{2fcc36d5-6cca-4791-8e1b-8c42427e87cd}</UniqueIdentifier>
+      <Extensions>*</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BaseFun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExeInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MD5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcProtect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SSDTHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseFun.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExeInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IOCTL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MD5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProcProtect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SSDTHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="makefile">
+      <Filter>Special Files</Filter>
+    </None>
+    <None Include="ProcProtect.vsprops">
+      <Filter>Special Files</Filter>
+    </None>
+    <None Include="sources">
+      <Filter>Special Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
